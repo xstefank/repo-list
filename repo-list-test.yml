@@ -1,0 +1,4 @@
+projects:
+  - upstream: undertow-io/undertow
+    downstream: xstefank/undertow
+    branch: 2.0.x
