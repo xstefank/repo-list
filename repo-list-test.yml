@@ -2,3 +2,6 @@ projects:
   - upstream: undertow-io/undertow
     downstream: xstefank/undertow
     branch: 2.0.x
+  - upstream: hal/console
+    downstream: xstefank/console
+    branch: 3.2.x 
